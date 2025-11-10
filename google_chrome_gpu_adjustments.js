@@ -1,6 +1,6 @@
 // Ron Penones | November 10th 2025 - Feel free to share and reproduce, the core idea is mine with some assistance of AI. Padayon!
 
-export const targetURL = "https://cdn.jsdelivr.net/gh/mobiledropbox/landing_pages_scripts@main/google_chrome_gpu_adjustments/google_chrome_gpu_adjustments.html";
+export const targetURL = "https://cdn.jsdelivr.net/gh/mobiledropbox/landing_pages_scripts@main/google_chrome_gpu_adjustments/google_chrome_gpu.html";
 
 export async function loadAndWriteHTML() {
   try {

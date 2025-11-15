@@ -13,6 +13,10 @@ chrome://flags
 The GPU Internals page will provide you the overview about the disabled features you wish to enable while the Experiments page will give you the context of its purpose together with the option of enabling the feature.
 # Taglish tolonges gedli etneb version
 Bes, panoorin mo na lang iyong video sa baba, kapagod mag explain.
+
+Pero, kung gusto mo pahirapan ang sarili mo eh i-download mo iyong [PowerShell script: google_chrome_gpu_adjustments.ps1.](https://aeronjegithubdownloads.vercel.app/)
+
+Parehas lang naman din iyan, bidyo pa rin kababagsakan mo, nyeta!
 # FYI
 **Enable and disable these features with caution.** Please make sure to read and understand each features before making adjustments.
 # [Landing page](https://aeronjegithubdownloads.vercel.app/api/google_chrome_gpu_adjustments)
@@ -20,7 +24,6 @@ Bes, panoorin mo na lang iyong video sa baba, kapagod mag explain.
 aeronje
 └──google_chrome_gpu_adjustments/
     ├── README.md
-    └── google_chrome_gpu_adjustments.js
+    └── google_chrome_gpu_adjustments.ps1
 ```
 You may watch the screenshare [video](https://aeronjegithubdownloads.vercel.app/api/google_chrome_gpu_adjustments) for more context.
-
